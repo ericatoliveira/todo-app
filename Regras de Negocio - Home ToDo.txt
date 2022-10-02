@@ -1,0 +1,18 @@
+RN 1 - Tela inicial com informações sobre tarefas
+RN 2 - a tela deve ter uma mensagem de boas vindas e um ícone para acessar o perfil do usuário
+RN 3 - a tela deve ter um campo para pesquisa de tarefas
+RN 4 - a tela deve ter um botão para ajustes
+RN 5 - a tela deve ter dois textos que determinam o tipo de tarefa que será visualizado
+    - O texto My Priority Task que mostra as tarefas prioritárias
+    - O texto All Task que permite acessar a todas as tarefas
+RN 6 - As tarefas devem ser apresentadas em boxes no formato de carrousel
+    - Deve ser apresentado um box para cada tarefa em cores distintas
+RN 7 - a tela deve conter uma imagem ilustrativa no fundo
+RN 8 - a tela deve conter uma lista de tarefas anuais
+    - devem conter espaços para 3 tarefas anuais em exibição
+RN 9 - a tela deve conter icones de atalho para as funcionalidades do app
+    - ícone de atalho para a tela inicial
+    - ícone de atalho para tarefas concluídas
+    - ícone de atalho para cadastrar nova tarefa
+    - ícone para exibição de calendário
+    - ícone para a configuração de alertas
