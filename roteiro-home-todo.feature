@@ -26,7 +26,7 @@ Cenário: Validar RN 4 - Botão de ajustes
     Então deve ser exibido um botão para ajustes do app
 
 @altaprioridade
-Cenário: Validar RN 5 - Vizualização de tarefas
+Cenário: Validar RN 5 - Visualização de tarefas
     Então deve ser exibido o texto My Priority Task que descreve que as tarefas em exibição são apenas as prioritárias
     E deve ser exibido o texto All Task que direciona o usuário para visualizar todas as tarefas
 
