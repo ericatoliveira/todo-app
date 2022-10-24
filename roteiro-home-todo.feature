@@ -25,22 +25,22 @@ Cenário: Validar RN 3 - Pesquisa de tarefas
 Cenário: Validar RN 4 - Botão de ajustes
     Então deve ser exibido um botão para ajustes do app
 
-@altaprioridade
+@mediaprioridade
 Cenário: Validar RN 5 - Visualização de tarefas
     Então deve ser exibido o texto My Priority Task que descreve que as tarefas em exibição são apenas as prioritárias
     E deve ser exibido o texto All Task que direciona o usuário para visualizar todas as tarefas
 
-@altaprioridade
+@mediaprioridade
 Cenário: Validar RN 6 - Exibição de boxes de tarefas
     Então devem ser exibidos boxes de tarefas em formato de carrousel
     E deve ser exibida apenas uma tarefa em cada boxe
     E cada box deve ter uma cor distinta
 
-@altaprioridade
+@baixaprioridade
 Cenário: Validar RN 7 - Layout do fundo da tela
     Então deve ser exibida uma imagem ilustrativa no fundo da tela
 
-@altaprioridade
+@mediaprioridade
 Cenário: Validar RN 8 - Lista de tarefas anuais
     Então deve ser exibida uma lista de tarefas anuais
     E devem ser exibidos 3 espaços para tarefas anuais
